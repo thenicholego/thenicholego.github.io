@@ -1,0 +1,113 @@
+
+/*body {
+	background-color:#e0dda6
+}
+
+#aboutme {
+	display: block;
+	margin: auto;
+	width:40%;
+	border-radius: 30px;
+}
+
+.header {
+	color: green;
+	font-size: 50px;
+	text-align: center;
+	font-family: Arial;
+}
+
+#header3 {
+	color:#fcf0b0;
+	font-size: 80px;
+	text-align: center;
+}
+
+#aboutme {
+	display: block;
+	margin: auto;
+	width:50%;
+	border-radius: 20px;
+}*/
+
+#div1 {
+	background-color:pink;
+}
+
+#title {
+	padding: 200px 15% 200px 15%;
+	width: 100%;
+	text-align: center;
+	border: 5px double black;
+	background: linear-gradient(#f09433, #e6693c, #dc2743, #cc2366, #bc1888)
+
+}
+
+.header {
+	color: green;
+	font-size: 50px;
+	font-family: Arial;
+}
+
+#header3 {
+	color:#fcf0b0;
+	font-size: 100px;
+	background-color: gold;
+	text-align: center;
+	margin: 100px 10%;
+	transition-duration: 0.3s;
+}
+
+#header3:hover {
+	background-color: #6676d5;
+	color: black;
+	letter-spacing: 10px;
+}
+
+#dog {
+	display: block;
+	margin: auto;
+	width:50%;
+	border-radius: 20px;
+	box-shadow: 5px 5px 10px grey;
+	text-align: center;
+}
+
+body {
+	margin: 0;
+	background: linear-gradient(45deg, white, pink);
+	font-family: 'Oswald', sans-serif;
+}
+
+.jumbotron {
+	background: linear-gradient(to right, #f09433, #e6683c, #dc2743, #cc2366, #bc1888)
+}
+
+#butt {
+	padding: 10px 40px;
+	font-size: 25px;
+	margin: 20px 30%;
+	border: 0;
+	color: black;
+	background: linear-gradient(to right, black);
+	transition-duration: 0.2s;
+	background-size: 200%;
+}
+
+#butt:hover {
+	background-color: #f9ebbf;
+	color: black;
+	letter-spacing: 4px;
+	transform: rotateY(360deg) scale(1.5);
+}
+
+@media only screen and (max-width: 768px) {
+	#header3 {
+		font-size: 25px;
+	}
+}
+
+
+
+
+
